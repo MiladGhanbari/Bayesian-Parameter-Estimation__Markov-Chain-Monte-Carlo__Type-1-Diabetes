@@ -2,7 +2,7 @@
 
 Bayesian parameter estimation approach using MCMC technique is designed to identify the model of glucose-insulin dynamics
 using both experimental and simulation data. Experimental data from a real patient with type 1 diabetes using subcutaneous pump therapy who participated
-in a clinical research study are used. The key quantity in Bayesian parameter estimation is the a posteriori probability density function of the
+in a clinical research study is used. The key quantity in Bayesian parameter estimation is the a posteriori probability density function of the
 unknown model parameters. From this function, which provides a complete description of the shape of the estimate
 uncertainty, the 95% confidence intervals can be derived. Obtaining the a posteriori probability density function of
 the unknown model parameters is a task that is analytically intractable because of the complex relationships between
