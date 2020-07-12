@@ -1,4 +1,4 @@
-# Bayesian Parameter Estimation Approach using MCMC for Model Identification of Glucose-Insulin Dynamics for Type 1 Diabetes:
+# Bayesian Parameter Estimation Approach using MCMC for Model Identification of Glucose-Insulin Dynamics for Type 1 Diabetes
 
 Bayesian estimation approach using MCMC technique is designed to identify the model of glucose-insulin dynamics
 using both experimental and simulation data. Experimental data from a real patient with type 1 diabetes using subcutaneous pump therapy who participated
